@@ -1,0 +1,120 @@
+body{
+	height: 1500;
+	width:2000px;
+	font-family: 'Poppins', sans-serif;
+	margin-left:5%;
+
+}
+section{
+	height: 800px;
+	width: auto;
+
+
+}
+.Intro{
+	height:300px;
+	float: left;
+	padding-top:8%;
+	padding-left: 24%;
+	padding-top:15%;
+	
+
+}
+.header-image{
+	width: 600px;
+	float:right;
+	padding-right:20%;
+	padding-top:6%;
+
+}
+.top-banner{
+	padding-top: 5%;
+	background-image: url("header-bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	
+
+}
+.button{
+	background-color:orange;
+	padding:20px 50px;
+	text-decoration:none;
+	border-radius: 5px;
+	color:white;
+}
+img{
+	height:100%;
+	width:100%;
+	
+}
+p{
+	text-align: justify;
+	color:slategrey;
+
+}
+h1{
+	font-size: 70px;
+	color:tomato;
+	font-weight: bold;
+	
+}
+.bio-image{
+	width: 600px;
+	float:left;
+	padding-left:12%;
+	padding-top:2%;
+}
+.middle{
+	padding-top: 10%;
+	background-image: url("biography-bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.biography{
+	height:300px;
+	float: right;
+	padding-top:15%;
+	padding-right: 20%;
+}
+h2{
+	font-size: 45px;
+}
+.work{
+	width:550px;
+	float: left;
+	padding-left: 1%;
+	padding-top: 4%;
+	
+}
+.work-image{
+	height:100%;
+	width:100%;
+}
+.bottom{
+	padding-left: 6%;
+	padding-top: 5%;
+	
+}
+h3,h4{
+	text-align: center;
+}
+.lorem-ipsum{
+	color:black;
+	font-weight: bold;
+	text-align: center;
+	
+	
+}
+.footer{
+	background-color:goldenrod;
+	margin: 20%;
+	padding:3px;
+	border-radius: 10px;
+}
+.mail{
+	text-align: center;
+}
+a:hover{
+	background-color: rgb(218, 159, 32);
+}
+
